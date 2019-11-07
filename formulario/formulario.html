@@ -1,0 +1,52 @@
+<html lang=gl-ES>
+<head>
+	<link  rel=stylesheet  href=formulario.css>  
+<meta charset="UTF-8" />
+<title>Formulario</title>
+</head>
+<body>
+	<h2>Bienvenido</h2>
+ <form action="" method="post" media="screen"> 
+  
+  <label for="username"> Introduce tu nombre: </label> 
+  <input class="azul" type="text" name="nombre" value="" size="50" maxlength="40" />
+  <br/>
+   
+   <label for="username">Mensaje: </label> 
+  <input class="rosita" type="text" name="apellidos" value="" size="80" maxlength="80" />
+  <br/>
+
+<label for="username"> DNI: </label> 
+  <input class="gordo" type="text" name="nombre" value="" size="27" maxlength="40" />
+  <br/>
+
+Seleccine el color de tu imagen: <br/>
+  <input type="radio" name="color" value="Rojo" checked="checked" /> Rojo <br/>
+  <input type="radio" name="color" value="Verde" /> Verde<br/>
+  <input type="radio" name="color" value="Azul" /> Azul<br/>
+  <hr>
+  Seleccione los dias con disponibilidad: <br/>
+  <input type="Checkbox" name="dias" value="Lunes" checked="checked" /> Lunes <br/>
+  <input type="Checkbox" name="dias" value="Martes" /> Martes<br/>
+  <input type="Checkbox" name="dias" value="Miercoles" /> Miercoles<br/>
+  <input type="Checkbox" name="dias" value="Jueves" /> Jueves<br/>
+  <input type="Checkbox" name="dias" value="Viernes" /> Viernes<br/>
+  <hr>
+  Fecha: <input type="date" name="fecha" size="20">
+   <hr>
+<input type="submit" name="enviar" value="Haz clip para enviar la información"/>
+  <input type="reset" name="borrar" value="Conmenzar a rellenar de nuevo" />
+
+
+
+
+  <form action="mailto:sergio.rivero.gonzalez@gmail.com" method="post" enctype="text/plain"><br>
+Nombre:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+Comentario:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Enviar">
+<input type="reset" value="Restablecer">
+</form>

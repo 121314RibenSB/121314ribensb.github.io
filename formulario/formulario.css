@@ -1,0 +1,50 @@
+h2 {
+	color:52D017;
+}
+body{
+	margin-left:2cm;
+}	
+.azul{
+	background-color: #0000FF;
+  border:3px solid yellow;
+  border-radius:10px;
+	
+}
+.rosita{
+	background-color: #FF00FF;
+  border:3px solid yellow;
+  border-radius:10px;
+}
+
+
+.gordo{
+	background-color: #800000;
+  border:3px solid yellow;
+  border-radius:10px;
+}
+
+
+
+
+
+
+
+
+input[type=submit] {
+ background-color: #FFA500;
+  border:3px solid yellow;
+  border-radius:10px;
+
+}
+
+
+input[type=reset] {
+  background-color: #4CAF50;
+  border:3px solid yellow;
+  border-radius:10px;
+}
+
+
+
+
+
