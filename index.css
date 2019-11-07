@@ -1,0 +1,40 @@
+body {
+
+	font: 20px;
+
+	text-align: center;
+
+	background-color:orange;
+
+}
+
+
+p{
+
+	font-size:30px;
+
+	color:#0000FF;
+
+	text-align:center;
+
+}
+
+h2{
+	font-size: 50px;
+	color:#FF0000;
+
+	text-align:center;
+
+}
+
+.clase1{
+
+	font-style:italic;
+
+	font-size:20px;
+
+	border-bottom:1px #000000 dashed;
+
+	text-align:left;
+
+}
