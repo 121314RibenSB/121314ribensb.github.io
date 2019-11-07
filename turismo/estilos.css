@@ -1,0 +1,41 @@
+svg{
+	margin-left: 450px;
+}
+.rojito{
+	border-color:red;
+	background: yellow;
+}
+h1{
+	font-style: all;
+	color: yellow;
+}
+h2{
+	font-style: inherit;
+	color: yellow;
+}
+h4{
+	font-style: inherit;
+	color: yellow;
+}
+
+table{
+text-align: center;	
+border-color:red;
+  background:orange;
+border-style:double;
+}
+
+body{
+	background:orange;
+
+	
+}
+
+.grande{
+	font-size: 50px ;
+	color: yellow;
+}
+
+iframe{
+	float:right;
+}
