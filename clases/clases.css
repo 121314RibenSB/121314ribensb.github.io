@@ -1,0 +1,43 @@
+.margenprecioso{
+	margin:300px;
+}
+
+.grisote{
+	color:gray;
+	border:dotted;
+	text-align:center;
+	margin:25px;
+	display:block;
+}
+
+.gordito{
+	font-family: verdana;
+  font-size: 50px;
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  
+}
+
+.rojito{
+	  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+}
+
+
+.moderno{
+	 margin: 30px;
+  background:yellow;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+
+}
+
+.azul{
+	 height: 100px;
+  width: 500px;
+  background-color: powderblue;
+}
