@@ -23,6 +23,7 @@ text-align: center;
 border-color:red;
   background:orange;
 border-style:double;
+
 }
 
 body{
@@ -39,4 +40,7 @@ body{
 
 iframe{
 	float:right;
+}
+td{
+	padding:10px;
 }
